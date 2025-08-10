@@ -16,7 +16,7 @@ My research focuses on the intersection of **causal inference and machine learni
 - **Causal Discovery**: Developing methods to identify causal relationships from observational data
 - **Time Series Causal Inference**: Extending causal machine learning methods to time-varying treatment setting
 
-Recently, I am deeply interested in **uncertainty quantification** as a means to achieve more reliable and valid causal inference. My work aims to develop methods that not only provide causal effect estimates but also quantify the uncertainty associated with these estimates, ensuring that the resulting inferences are trustworthy and can be safely used for decision-making in real-world applications.
+These days, I am deeply interested in **uncertainty quantification** as a means to achieve more reliable and valid causal inference. My work aims to develop methods that not only provide causal effect estimates but also quantify the uncertainty associated with these estimates, ensuring that the resulting inferences are trustworthy and can be safely used for decision-making in real-world applications.
 
 
 ## Education
