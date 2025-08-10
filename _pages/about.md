@@ -1,21 +1,23 @@
 ---
 permalink: /
-title: "Jonghwan Kim - Academic Personal Website"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Welcome to my academic website! I am Jonghwan Kim, a Ph.D. student at the Graduate School of Data Science, Seoul National University.
+Welcome to my academic website! I am Jonghwan Kim, a Ph.D. student at the Graduate School of Data Science, Seoul National University, focusing on trustworthy causal inference and uncertainty quantification in machine learning.
 
 ## Research Interests
 
-My research focuses on the intersection of **causal inference and machine learning**. I am particularly interested in:
+My research focuses on the intersection of **causal inference and machine learning**, with particular emphasis on developing **trustworthy causal inference methods**. I am particularly interested in:
 
 - **Causal Discovery**: Developing methods to identify causal relationships from observational data
 - **Causal Machine Learning**: Integrating causal reasoning with machine learning algorithms
 - **Time Series Causal Inference**: Extending causal machine learning to time series data
+
+Recently, I am deeply interested in **uncertainty quantification** as a means to achieve more reliable and valid causal inference. My work aims to develop methods that not only provide causal estimates but also quantify the uncertainty associated with these estimates, ensuring that the resulting inferences are trustworthy and can be safely used for decision-making in real-world applications.
 
 
 ## Education
@@ -29,11 +31,5 @@ My research focuses on the intersection of **causal inference and machine learni
 I am currently working on **"Causal Normalizing Flow with Time Series Data"** in collaboration with LG AI Research. This project explores the application of autoregressive normalizing flows to estimate causal effects under time-varying treatments.
 
 
-## Recent News
-
-- **UAI 2024**: Paper accepted at the 40th Conference on Uncertainty in Artificial Intelligence (UAI 2024)
-  - **Title**: "Causal Discovery with Deductive Reasoning: One Less Problem"
-
 ---
 
-*This website is built using the [Academic Pages](https://github.com/academicpages/academicpages.github.io) template, a ready-to-fork GitHub Pages template for academic personal websites.*
