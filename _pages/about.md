@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my academic website! I am Jonghwan Kim, a Ph.D. student at the Graduate School of Data Science, Seoul National University, focusing on trustworthy causal inference and uncertainty quantification in machine learning.
+Welcome to my academic website! I am Jonghwan Kim, a Ph.D. student at the Graduate School of Data Science, Seoul National University, advised by Prof. Sanghack Lee. My research focuses on trustworthy causal inference and uncertainty quantification in machine learning.
 
 ## Research Interests
 
@@ -31,7 +31,7 @@ I am currently working on **"Causal Normalizing Flow with Time Series Data"** in
 
 ## Experience
 
-- **Research Intern** (2025.02 - present) - LG AI Research, Data Intelligence Lab
+- **Research Scientist Intern** (2025.02 - present) - LG AI Research, Data Intelligence Lab
 
 
 ---
