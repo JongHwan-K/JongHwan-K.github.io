@@ -28,8 +28,8 @@ My research focuses on the intersection of **causal inference and machine learni
 ## Education
 
 - **Ph.D.** (In Progress) - Seoul National University - Data Science
-- **M.S.** - [University] - Data Science
-- **B.A.** - [University] - Asian Studies, Sociology
+- **M.S.** - Seoul National University - Data Science
+- **B.A.** - Seoul National University - Asian Studies, Sociology
 
 ## Current Research Project
 
@@ -43,7 +43,8 @@ I am currently working on **"Causal Normalizing Flow with Time Series Data"** in
 
 ## Recent News
 
-- [Latest updates about your research and publications]
+- **UAI 2024**: Paper accepted at the 40th Conference on Uncertainty in Artificial Intelligence (UAI 2024)
+  - **Title**: "Causal Discovery with Deductive Reasoning: One Less Problem"
 
 ## Publications
 
