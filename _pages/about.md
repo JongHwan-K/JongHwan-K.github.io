@@ -7,43 +7,43 @@ redirect_from:
   - /about.html
 ---
 
-안녕하세요! 서울대학교에서 연구하고 있는 김종환입니다.
+안녕하세요! 서울대학교 데이터사이언스 대학원에서 연구하고 있는 김종환입니다.
 
-Welcome to my academic website! I am Jonghwan Kim, a researcher at Seoul National University.
+Welcome to my academic website! I am Jonghwan Kim, a Ph.D. student at the Graduate School of Data Science, Seoul National University.
 
 ## Research Interests
 
-My research focuses on [your research area here]. I am particularly interested in [specific topics].
+My research focuses on the intersection of **causal inference and machine learning**. I am particularly interested in:
+
+- **Causal Discovery**: Developing methods to identify causal relationships from observational data
+- **Causal Machine Learning**: Integrating causal reasoning with machine learning algorithms
+- **Time Series Causal Inference**: Extending causal inference methods to temporal data
 
 ## Current Position
 
 - **Institution**: Seoul National University
-- **Department**: [Your Department]
-- **Position**: [Your Position - e.g., Graduate Student, Postdoctoral Researcher, etc.]
+- **Department**: Graduate School of Data Science
+- **Position**: Ph.D. Student
 
 ## Education
 
-- **Ph.D.** [Year] - [University] - [Field]
-- **M.S.** [Year] - [University] - [Field]  
-- **B.S.** [Year] - [University] - [Field]
+- **Ph.D.** (In Progress) - Seoul National University - Data Science
+- **M.S.** - [University] - Data Science
+- **B.A.** - [University] - Asian Studies, Sociology
+
+## Current Research Project
+
+I am currently working on **"Causal Normalizing Flow with Time Series Data"** in collaboration with LG AI Research. This project explores the application of normalizing flows to causal inference problems in time series data.
 
 ## Contact
 
 - **Email**: rlawhdghkk@snu.ac.kr
-- **Office**: [Your Office Location]
+- **Office**: Graduate School of Data Science, Seoul National University
 - **Website**: https://jonghwan-k.github.io
 
 ## Recent News
 
-- [Latest news or updates about your research]
-
-## Research Projects
-
-I am currently working on several projects:
-
-1. **[Project 1 Title]** - Brief description
-2. **[Project 2 Title]** - Brief description
-3. **[Project 3 Title]** - Brief description
+- [Latest updates about your research and publications]
 
 ## Publications
 
