@@ -2,7 +2,6 @@
 title: "Causal Discovery with Deductive Reasoning: One Less Problem"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-causal-discovery-deductive-reasoning
 date: 2024-07-01
 venue: '40th Conference on Uncertainty in Artificial Intelligence (UAI 2024)'
 paperurl: 'https://proceedings.mlr.press/v244/kim24a.html'
