@@ -22,13 +22,15 @@ Recently, I am deeply interested in **uncertainty quantification** as a means to
 
 ## Education
 
-- **Ph.D.** (In Progress) - Seoul National University - Data Science
-- **M.S.** - Seoul National University - Data Science
-- **B.A.** - Seoul National University - Asian Studies, Sociology
+- **Ph.D.** (2024-present) - Seoul National University - Data Science (advised by Prof. Sanghack Lee)
+- **M.S.** (2022-2024) - Seoul National University - Data Science (advised by Prof. Sanghack Lee)
+- **B.A.** (2015-2022) - Seoul National University - Asian Studies, Sociology
 
 ## Current Research Project
 
 I am currently working on **"Causal Normalizing Flow with Time Series Data"** in collaboration with LG AI Research. This project explores the application of autoregressive normalizing flows to estimate causal effects under time-varying treatments.
+
+
 
 
 ---
