@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Jonghwan Kim / Academic Site"
+title                    : "Jonghwan Kim"
 title_separator          : "-"
 name                     : &name "Jonghwan Kim"
 description              : &description "Personal academic website of Jonghwan Kim"
@@ -28,7 +28,6 @@ author:
   bio              : "Your bio/description here"  # Update this with your actual bio
   location         : "Seoul, South Korea"  # Update with your location
   employer         : "Seoul National University"  # Update with your institution
-  uri              : "https://jonghwan-k.github.io"
   email            : "rlawhdghkk@snu.ac.kr" 
 
   # Academic websites
@@ -37,9 +36,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
@@ -53,7 +50,6 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
