@@ -14,10 +14,9 @@ Welcome to my academic website! I am Jonghwan Kim, a Ph.D. student at the Gradua
 My research focuses on the intersection of **causal inference and machine learning**, with particular emphasis on developing **trustworthy causal inference methods**. I am particularly interested in:
 
 - **Causal Discovery**: Developing methods to identify causal relationships from observational data
-- **Causal Machine Learning**: Integrating causal reasoning with machine learning algorithms
-- **Time Series Causal Inference**: Extending causal machine learning to time series data
+- **Time Series Causal Inference**: Extending causal machine learning methods to time-varying treatment setting
 
-Recently, I am deeply interested in **uncertainty quantification** as a means to achieve more reliable and valid causal inference. My work aims to develop methods that not only provide causal estimates but also quantify the uncertainty associated with these estimates, ensuring that the resulting inferences are trustworthy and can be safely used for decision-making in real-world applications.
+Recently, I am deeply interested in **uncertainty quantification** as a means to achieve more reliable and valid causal inference. My work aims to develop methods that not only provide causal effect estimates but also quantify the uncertainty associated with these estimates, ensuring that the resulting inferences are trustworthy and can be safely used for decision-making in real-world applications.
 
 
 ## Education
@@ -30,7 +29,9 @@ Recently, I am deeply interested in **uncertainty quantification** as a means to
 
 I am currently working on **"Causal Normalizing Flow with Time Series Data"** in collaboration with LG AI Research. This project explores the application of autoregressive normalizing flows to estimate causal effects under time-varying treatments.
 
+## Experience
 
+- **Research Intern** (2025.02 - present) - LG AI Research, Data Intelligence Lab
 
 
 ---
