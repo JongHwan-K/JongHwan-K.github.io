@@ -33,6 +33,8 @@ I am currently working on **"Causal Normalizing Flow with Time Series Data"** in
 
 - **Research Scientist Intern** (2025.02 - present) - LG AI Research, Data Intelligence Lab
 
+## CV
+You can download my CV here: [📄 CV (PDF)](/files/Jonghwan_s_CV.pdf)
 
 ---
 
